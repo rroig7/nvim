@@ -20,3 +20,5 @@ After the installation steps, you should just be able to run nvim in the termina
 Note: To use live_grep, you will need to download ripgrep.
 
 Note 2: You will need to create a PAT token inorder to clone the repo since it is private. Google that shit I don't feel like explaining it rn.
+
+Note 3: Get JetBrains Mono Nerd Font at `https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/JetBrainsMono.zip`
