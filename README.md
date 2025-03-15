@@ -18,3 +18,5 @@ To put this on your windows machine:
 After the installation steps, you should just be able to run nvim in the terminal, and Lazy should take care of the rest from there.
 
 Note: To use live_grep, you will need to download ripgrep.
+
+Note 2: You will need to create a PAT token inorder to clone the repo since it is private. Google that shit I don't feel like explaining it rn.
