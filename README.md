@@ -1,6 +1,6 @@
 You will need git installed before anything so make sure you install git first and can call it from the command line.
 
-Replace <username> with your username.
+Replace "username" with your username.
 For example, if my username is rroig, than an example command would be cd /home/rroig/.config/
 
 # Linux
